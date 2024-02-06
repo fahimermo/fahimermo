@@ -1,1 +1,1 @@
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=fahimermo.fahimermo)
+[Gist](https://gist.github.com/fahimermo)
