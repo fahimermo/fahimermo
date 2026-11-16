@@ -6,8 +6,6 @@ You can use the website to generate badges: https://shields.io/
 -->
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/fahimermo)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/elijah-mohammadi/)
-[![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:elijah.tech@outlook.com)
 
 &nbsp;
 
@@ -23,7 +21,6 @@ You can use the website to generate badges: https://shields.io/
 - 🤔 I’m looking for help with QC 😭;
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: I have a degree in computer science;
-- 📫 How to reach me: elijah.tech@outlook.com;
 
 **Visitors:** 
 
