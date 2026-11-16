@@ -1,13 +1,3 @@
-<!-- Your title -->
-
-<!-- Your badges
-You can use the website to generate badges: https://shields.io/
--->
-
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/fahimermo)
-
-&nbsp;
-
 <!-- Talking about you -->
 **Talking about Personal Stuffs:**
 
@@ -29,12 +19,4 @@ Both apis are in trouble due to the number of requests, if you know any other to
 -->
 <p>
   <img alt="ViewCount" src="https://views.whatilearened.today/views/github/fahimermo/fahimermo.svg" />
-</p>
-
-## Support me
-<!-- Your support, if you have it -->
-<p align="center">
-  <a href="https://www.buymeacoffee.com/fahimermo" target="_blank">
-      <img width="18%" alt="Buy me a coffee" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/support-buy-coffee.png"/>
-  </a>
 </p>
