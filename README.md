@@ -1,5 +1,4 @@
 <!-- Your title -->
-## Hi, I'm Elias Mohammadi, a Developer 🚀 from Sweden.
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
